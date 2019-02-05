@@ -1,0 +1,31 @@
+[center]![agFPBh7.png?4](https://i.imgur.com/agFPBh7.png?4)[/center]
+
+Dear Applicant,
+
+Thank you for your interest., Your application has been approved and selected to move forward to our interview phase. This in no way guarantee's you into your selected department. Moving further we would like to speak with you on our discord server. You have a period of 7 days to do so, If you cannot meet that deadline for any reason, please comment on your application requesting a time extension.
+
+**Discord: http://discord.gg/hZMdvrt**
+
+As you have been accepted we now ask you to copy the info from the summary below, change the * to your information. Choose three different days that work for you and a time on each day. Paste this in #needs-interview
+
+[details="Summary"]
+```
+Interview request
+* Please use same timezone as your application
+
+1st:
+Date: 
+Time: 
+
+2nd:
+Date: 
+Time: 
+
+3rd:
+Date: 
+Time: 
+```
+[/details]
+
+Thank you,
+OFRP Recruitment Division
